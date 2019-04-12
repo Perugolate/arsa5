@@ -1,0 +1,49 @@
+library,number,selective_agent ,strain,colony,nature,stress_value
+S177-1_S1,1,melittin,G9,1,resistant,1024
+S178-2_S2,2,melittin,G9,2,resistant,1024
+S179-3_S3,3,melittin,G9,3,resistant,1024
+S180-4_S4,4,unselected control,A2,1,sensitive,NA
+S181-5_S5,5,unselected control,A2,2,sensitive,NA
+S182-6_S6,6,unselected control,A2,3,sensitive,NA
+S183-7_S7,7,unselected control,C1,1,sensitive,NA
+S184-8_S8,8,unselected control,C1,2,sensitive,NA
+S185-9_S9,9,unselected control,C1,3,sensitive,NA
+S186-10_S10,10,unselected control,D2,1,sensitive,NA
+S187-11_S11,11,unselected control,D2,2,sensitive,NA
+S188-12_S12,12,unselected control,D2,3,sensitive,NA
+S189-13_S13,13,unselected control,A1,1,sensitive,NA
+S190-14_S14,14,unselected control,A1,2,sensitive,NA
+S191-15_S15,15,unselected control,A1,3,sensitive,NA
+S192-16_S16,16,pexiganan,C7,1,resistant,256
+S193-17_S17,17,pexiganan,C7,2,resistant,256
+S194-18_S18,18,pexiganan,C7,3,resistant,256
+S195-19_S19,19,pexiganan,E5,1,resistant,256
+S196-20_S20,20,pexiganan,E5,2,resistant,256
+S197-21_S21,21,pexiganan,E5,3,resistant,256
+S198-22_S22,22,pexiganan,D7,1,resistant,256
+S199-23_S23,23,pexiganan,D7,2,resistant,256
+S200-24_S24,24,pexiganan,D7,3,resistant,256
+S201-25_S25,25,unselected control,B1,1,sensitive,NA
+S202-26_S26,26,unselected control,B1,2,sensitive,NA
+S203-27_S27,27,unselected control,B1,3,sensitive,NA
+S204-28_S28,28,pexiganan,G7,1,resistant,256
+S205-29_S29,29,pexiganan,G7,2,resistant,256
+S206-30_S30,30,pexiganan,G7,3,resistant,256
+S207-31_S31,31,pexiganan,A7,1,resistant,256
+S208-32_S32,32,pexiganan,A7,2,resistant,256
+S209-33_S33,33,pexiganan,A7,3,resistant,256
+S210-34_S34,34,melittin,A10,1,resistant,512
+S211-35_S35,35,melittin,A10,2,resistant,512
+S212-36_S36,36,melittin,A10,3,resistant,512
+S213-37_S37,37,melittin,B10,1,resistant,512
+S214-38_S38,38,melittin,B10,2,resistant,512
+S215-39_S39,39,melittin,B10,3,resistant,512
+S216-40_S40,40,melittin,H9,1,resistant,1024
+S217-41_S41,41,melittin,H9,2,resistant,1024
+S218-42_S42,42,melittin,H9,3,resistant,1024
+S219-43_S43,43,melittin,H10,1,resistant,1024
+S220-44_S44,44,melittin,H10,2,resistant,1024
+S221-45_S45,45,melittin,H10,3,resistant,1024
+S222-46_S46,46,melittin,G10,1,resistant,1024
+S223-47_S47,47,melittin,G10,2,resistant,1024
+S224-48_S48,48,melittin,G10,3,resistant,1024
