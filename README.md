@@ -1,6 +1,6 @@
 # arsa5
 
-note there are too few reads for do S177-1_S1
+Note there are too few reads for S177-1_S1.
 
 ## Clone repository
 
